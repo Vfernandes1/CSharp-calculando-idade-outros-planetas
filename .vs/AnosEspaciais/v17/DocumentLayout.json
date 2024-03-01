@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|c:\\users\\inteli\\source\\repos\\anosespaciais\\anosespaciais\\anosemjupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|solutionrelative:anosespaciais\\anosemjupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|c:\\users\\inteli\\source\\repos\\anosespaciais\\anosespaciais\\calculandoanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|solutionrelative:anosespaciais\\calculandoanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|c:\\users\\inteli\\source\\repos\\anosespaciais\\anosespaciais\\planetasmaispertodosol\\anosemjupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|solutionrelative:anosespaciais\\planetasmaispertodosol\\anosemjupiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|c:\\users\\inteli\\source\\repos\\anosespaciais\\anosespaciais\\planetasmaispertodosol\\anosemsaturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209247F1-345A-4127-B761-C01E925EC754}|AnosEspaciais\\AnosEspaciais.csproj|solutionrelative:anosespaciais\\planetasmaispertodosol\\anosemsaturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CalculandoAnos.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\CalculandoAnos.cs",
+              "RelativeDocumentMoniker": "AnosEspaciais\\CalculandoAnos.cs",
+              "ToolTip": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\CalculandoAnos.cs",
+              "RelativeToolTip": "AnosEspaciais\\CalculandoAnos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:13:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnosEmSaturno.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmSaturno.cs",
+              "RelativeDocumentMoniker": "AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmSaturno.cs",
+              "ToolTip": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmSaturno.cs",
+              "RelativeToolTip": "AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmSaturno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:58:01.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AnosEmJupiter.cs",
-              "DocumentMoniker": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\AnosEmJupiter.cs",
-              "RelativeDocumentMoniker": "AnosEspaciais\\AnosEmJupiter.cs",
-              "ToolTip": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\AnosEmJupiter.cs",
-              "RelativeToolTip": "AnosEspaciais\\AnosEmJupiter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmJupiter.cs",
+              "RelativeDocumentMoniker": "AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmJupiter.cs",
+              "ToolTip": "C:\\Users\\Inteli\\source\\repos\\AnosEspaciais\\AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmJupiter.cs",
+              "RelativeToolTip": "AnosEspaciais\\PlanetasMaisPertoDoSol\\AnosEmJupiter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:00:16.96Z",
               "EditorCaption": ""

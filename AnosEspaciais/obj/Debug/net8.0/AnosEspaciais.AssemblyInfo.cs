@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnosEspaciais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7935e673e5a1594566c955a07d426d5f8183bc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnosEspaciais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnosEspaciais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
